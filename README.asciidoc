@@ -1,0 +1,5 @@
+= About This Repository
+
+This is a repository of an Eclipse project of an Android application used in Marakana training classes as a demonstration of how to play audio directly to the AudioFlinger.
+
+See http://marakana.com/training/android/ for more info

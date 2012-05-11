@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button_label">Play me!</string>
+    <string name="app_name">Audio Track Player Demo</string>
+
+</resources>
